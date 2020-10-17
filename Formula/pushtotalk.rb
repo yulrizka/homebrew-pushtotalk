@@ -1,8 +1,8 @@
 class Pushtotalk < Formula
   desc "OSX PushToTalk mutes and unmutes the microphone via a keypress"
   homepage "https://github.com/yulrizka/osx-push-to-talk"
-  url "https://github.com/yulrizka/osx-push-to-talk/archive/v0.1.4.tar.gz"
-  sha256 "7b86e77e765bd9699d33310addc10c75fe5bc01784a5e5c919ca674631579a35"
+  url "https://github.com/yulrizka/osx-push-to-talk/archive/v0.1.5.tar.gz"
+  sha256 "dd0c639c1ba131c8b700d7fbf6475ed564be3b849e23990f39309df7b2c7e170"
   license "MIT"
 
   depends_on xcode: :build
